@@ -2,7 +2,7 @@
 
 .navbar {
   padding: 1rem;
-  background-color: #1b1b32;
+  background-color: #000000;
   color: white;
   position: fixed;
   width: 100%;
@@ -10,7 +10,8 @@
 
 .navbar-collapse {
   align-items: center;
-  justify-content: space-between;  
+  justify-content: space-between;
+  color:white;  
 }
 
 .nav-link{
@@ -36,7 +37,7 @@ h1 {
 
 .seccion-oscura {
   color: white;
-  background-color: #1b1b32;
+  background-color: #000000;
 }
 
 .seccion-clara {
@@ -62,7 +63,7 @@ h1 {
 .btn-info {
   font-size: 1.1rem;
   margin: 20px;
-  background-color: #1b1b32;
+  background-color: #000000;
   color: white;
   
 }
@@ -98,6 +99,7 @@ h1 {
   color: #615151;
 }
 
+
 /* Sobre mi */
 
 .sobre-mi {
@@ -128,13 +130,13 @@ h1 {
 
 .experiencia .columna:hover {
   color: white;
-  background-color: #1b1b32;
+  background-color: #000000;
 }
 
 .experiencia i {
   font-size: 2.5rem;
   color: #7ade30;
-  background-color: #0a0a23;
+  background-color: #000000;
   padding: 8px 19px;
   border-radius: 50%;
 }
@@ -153,7 +155,7 @@ h1 {
 
 .badge {
   margin: 5px;
-  background-color: #1b1b32;
+  background-color: #000000;
 }
 
 /* Proyectos */
